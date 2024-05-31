@@ -10,7 +10,7 @@ clone the file using and run
 https://github.com/rahul2214/health-care.git
 ```
 ```bash
-cd healthcare
+cd health-care
 ```
 ```bash
 npm install
